@@ -1,0 +1,12 @@
+.DS_Store
+
+## Directory-based project format:
+.idea/
+
+# Compiled python modules.
+*.pyc
+
+*.log
+*.csv
+*.zip
+*.txt

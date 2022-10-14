@@ -1,0 +1,1 @@
+python3 set_persons.py 12 12-fin
